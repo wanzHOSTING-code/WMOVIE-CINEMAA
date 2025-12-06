@@ -435,3 +435,10 @@ main {
   background: var(--color-primary);
   border-radius: 4px;
 }
+
+/* Tambahan untuk banner dinamis */
+.banner {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
